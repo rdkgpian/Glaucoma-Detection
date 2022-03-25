@@ -19,7 +19,7 @@ For the accuracy of segmenetation of Optic Disc and cup, two metrics were used: 
 
 ![](https://user-images.githubusercontent.com/32013812/160123780-16d142c4-f352-46ad-a768-3dbaf144a457.png)
 
-The calculated CDR values for train and test data can be found in the _Results/train_x_ and _Results/test_x_ files of the repository. The corresponding classification (glaucomous or non-glaucomous) is saved in _train_y_ and _test_y_ files.
+The calculated CDR values for train and test data can be found in the _Results/train_x.csv_ and _Results/test_x.csv_ files of the repository. The corresponding classification (glaucomous or non-glaucomous) is saved in _train_y.csv_ and _test_y.csv_ files.
 
 ## References
 
